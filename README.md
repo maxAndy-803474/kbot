@@ -1,6 +1,6 @@
 t.me/maksymonko_bot
 
-/start
+/start %s
 CLI
 #2023/11/09 18:34:33 /start
 
